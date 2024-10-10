@@ -5,7 +5,7 @@ from langchain_nomic.embeddings import NomicEmbeddings
 
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = ""
 
 ### LLM
 
